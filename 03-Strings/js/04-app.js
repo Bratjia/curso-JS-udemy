@@ -3,7 +3,7 @@ const producto =  '                       Monitor de 20 pulgadas           ';
 //eliminar espacio al final o al principio de la cadena
 
 
-console.log(producto.length);
+console.log(producto.length); //largo
 
  //eliminar espacio al inicio
 console.log(producto.trimStart());

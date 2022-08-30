@@ -1,6 +1,6 @@
 let resultado;
-
-resultado= 20+30*2; //80
+//multplicacion y division se ejecutan primero, despues sumas y restas
+resultado= 20+30*2; //80 ->30 * 2 -> +20
 resultado= (20+30)*2; //100
 
 //20% de descto en tu carrito de compras

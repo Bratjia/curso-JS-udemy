@@ -1,12 +1,12 @@
 const autenticado=true;
 
-if(autenticado){
+if(autenticado){ //if(autenticado === true)
     console.log('si')
 
 }else{
     console.log('no')
 }
 
-//operador temerario
+//operador ternario
 
 console.log(autenticado ? 'si': 'no'); 

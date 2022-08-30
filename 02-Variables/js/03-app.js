@@ -4,6 +4,6 @@
 const producto ='Monitor';
 console.log(producto);
 
-const precio=null;
+const precio
 //se le debe dar un valor
 console.log(precio)

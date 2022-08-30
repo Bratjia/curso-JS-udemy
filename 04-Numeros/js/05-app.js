@@ -1,8 +1,8 @@
 let puntaje =5;
-// incrementar
+// incrementara
 // ++puntaje; //6
-// puntaje++; //6
-// puntaje--; //4
+// puntaje++; //5
+// puntaje--; //5
 // --puntaje; //4
 puntaje +=3; //8
 puntaje +=3;

@@ -11,6 +11,6 @@ console.log("El producto "+ producto +"con un precio de: "+ precio);
 
 console.log("El producto ", producto ,"con un precio de: ", precio);
 
-//comilas backtip
+//comillas backtip
 console.log(`El producto ${producto} tiene un precio de ${precio}`)
 
